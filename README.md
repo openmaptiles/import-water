@@ -1,6 +1,6 @@
 # !!! OBSOLETE !!!
 
-This repo has been archived. Use [openmaptiles-tools/imports/water](https://github.com/openmaptiles/openmaptiles-tools/tree/master/imports/water) instead.
+This repo has been archived. Use [openmaptiles-tools/docker/import-water](https://github.com/openmaptiles/openmaptiles-tools/tree/master/docker/import-water) instead.
 
 -----
 
